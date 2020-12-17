@@ -1,14 +1,15 @@
 .DS_Store
 node_modules
-/public
-/src
-.browserslistrc
-.eslintrc.js
-babel.config.js
-package-lock.json
-package.json
-vue.config.js
-yarn.lock
+/dist
+#/public
+#/src
+#.browserslistrc
+#.eslintrc.js
+#babel.config.js
+#package-lock.json
+#package.json
+#vue.config.js
+#yarn.lock
 
 
 # local env files
