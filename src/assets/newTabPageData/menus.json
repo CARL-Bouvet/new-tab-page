@@ -1,0 +1,95 @@
+{
+    "news": [
+      {
+        "title": "The Verge",
+        "link": "https://www.theverge.com/"
+      },
+      {
+        "title": "la Croix",
+        "link": "https://www.la-croix.com/"
+      },
+      {
+        "title": "France24",
+        "link": "https://www.youtube.com/watch?v=yN20t84GCPE"
+      },
+      {
+        "title": "Euronews",
+        "link": "https://www.youtube.com/watch?v=_tp8hj7dw8M"
+      },
+      {
+        "title": "Le Temps",
+        "link": "https://www.letemps.ch/"
+      }
+    ],
+    "programming": [
+      {
+        "title": "Vue-cli",
+        "link": "https://www.youtube.com/watch?v=KeFdy1kVH4A&list=PL4cUxeGkcC9iCKx06qSncuvEPZ7x1UnKD"
+      },
+      {
+        "title": "Vuex",
+        "link": "https://www.youtube.com/watch?v=2uZYKcKHgU0&list=PL4cUxeGkcC9g0MQZfHwKcuB0Yswgb3gA5"
+      },
+      {
+        "title": "vue js",
+        "link": "https://www.youtube.com/watch?v=5LYrN_cAJoA&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa&index=1"
+      },
+      {
+        "title": "discord Vuejs",
+        "link": "https://discordapp.com/invite/HBherRA"
+      },
+      {
+        "title": "vue docs",
+        "link": "https://vuejs.org/"
+      },
+      {
+        "title": "flexbox.help",
+        "link": "http://flexbox.help/"
+      }
+    ],
+	"research": [
+      {
+        "title": "Sci-Hub",
+        "link": "https://mg.scihub.ltd/"
+      },
+      {
+        "title": "LibGen",
+        "link": "https://libgen.bban.top/"
+      },
+      {
+        "title": "Rutube",
+        "link": "https://rutube.ru/search/?query"
+      }
+    ],
+    "usefullLink": [
+      {
+        "title": "DIY",
+        "link": "https://www.diy.fr/"
+      },
+      {
+        "title": "Archlinuxfr",
+        "link": "https://archlinux.fr/"
+      },
+      {
+        "title": "CamelCamelCamel",
+        "link": "https://fr.camelcamelcamel.com/?utm_campaign=locale_redir&utm_source=C:US-L:FR-G:FR&utm_medium=www"
+      },
+      {
+        "title": "siren.fr",
+        "link": "http://www.sirene.fr/sirene/public/accueil"
+      },
+      {
+        "title": "urssaf",
+        "link": "https://www.autoentrepreneur.urssaf.fr/portail/accueil.html"
+      },
+      {
+        "title": "crisco",
+        "link": "https://crisco2.unicaen.fr/des/"
+      },
+      {
+        "title": "TLFi",
+        "link": "http://atilf.atilf.fr/"
+      }
+    ]
+}
+

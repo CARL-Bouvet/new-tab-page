@@ -79,7 +79,7 @@ export default{
             this.date = moment().locale('fr').format('dddd DD MMMM YYYY');
         },
         updatehorlogeActuel(){
-            this.horloge = moment().locale('fr').format('HH:MM ss')
+            this.horloge = moment().locale('fr').format('HH:mm ss')
         },
         imageMeteo(){
             return require(`@/assets/weather/${this.$store.state.icon}.png`)

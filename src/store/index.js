@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
-import jsonImages from '/home/romain/Bureau/.newTabPageData/imageAesthetic.json'
-import apiWeatherId from '/home/romain/Bureau/.newTabPageData/weatherAppKeys.json'
+import jsonImages from '@/assets/newTabPageData/imageAesthetic.json'
+import apiWeatherId from '@/assets/newTabPageData/weatherAppKeys.json'
 import VuexPersistence from 'vuex-persist'
 import axios from 'axios'
 
