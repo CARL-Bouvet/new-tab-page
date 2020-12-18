@@ -10,6 +10,6 @@ If you want a customized new tab page, you'would better see those links down bel
 
 [My New Tab](https://chrome.google.com/webstore/detail/my-new-tab/ibcdapcpgpofknnfbggcaikbggahcdfi)
 
-[/wg/ - /stpg/](https://stpg.tk/) <= probably the best link for startpage customisation on the internet!>
+[/wg/ - /stpg/](https://stpg.tk/) <= probably the best link for startpage customisation on the internet!
 
 
