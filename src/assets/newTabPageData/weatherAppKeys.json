@@ -1,4 +1,4 @@
 {
-	"city-lang": "Paris",
-	"api-id":"ec034b22928d18a06a6a16a8352bab42"
+	"city-lang": "", // <your locale>
+	"api-id": "" // <your API Key, see api.openweathermap.org for get it >
 }
