@@ -2,7 +2,7 @@
   "name": "new-tab-page10",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/rbABRAXAS/new-tab-page.git",
+  "homepage": "",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",

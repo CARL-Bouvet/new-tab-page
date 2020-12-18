@@ -1,24 +1,14 @@
-# new-tab-page10
+# new-tab-page
+a new tab page for navigators.
 
-## Project setup
-```
-yarn install
-```
+## installation
+for personal use only. That page can't be deployed in modern navigators as an add on or something like that. if you want to deploy it on your personal navigator, you need to compile it with Vue-CLI and serve the dist/ folder with http server or Apach htdocs. 
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+If you want a customize new-tab-page, you'would better see those links down below.
 
-### Compiles and minifies for production
-```
-yarn build
-```
+[Super Modern New Tab](https://chrome.google.com/webstore/detail/super-modern-new-tab/dhphmpoekpoecdbjeionimpiceigkeil)
+[My New Tab](https://chrome.google.com/webstore/detail/my-new-tab/ibcdapcpgpofknnfbggcaikbggahcdfi)
 
-### Lints and fixes files
-```
-yarn lint
-```
+[/wg/ - /stpg/](https://stpg.tk/) <= probably the best link for startpage customisation on the internet!>
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
