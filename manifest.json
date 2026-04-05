@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "New Tab Wallpaper",
+  "version": "1.0.0",
+  "description": "Affiche un wallpaper local aléatoire à chaque nouvel onglet.",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": true
+  }
+}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nouvel onglet</title>
+  <link rel="stylesheet" href="newtab.css">
+</head>
+<body>
+  <div id="wallpaper"></div>
+  <div id="overlay">
+    <div id="clock">
+      <span id="time"></span>
+      <span id="date"></span>
+    </div>
+    <div id="weather" hidden>
+      <span id="weather-temp"></span>
+      <span id="weather-desc"></span>
+      <span id="weather-city"></span>
+    </div>
+  </div>
+  <div id="empty">
+    <p>Aucun wallpaper configuré.</p>
+    <button id="open-settings">Ouvrir les paramètres</button>
+  </div>
+  <script type="module" src="newtab.js"></script>
+</body>
+</html>

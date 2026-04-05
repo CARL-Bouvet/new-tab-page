@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>New Tab Wallpaper — Paramètres</title>
+  <link rel="stylesheet" href="options.css">
+</head>
+<body>
+  <main>
+    <h1>New Tab Wallpaper</h1>
+    <p id="intro">Sélectionnez un dossier contenant vos images. Tous les papiers peints trouvés seront importés et affichés aléatoirement à chaque nouvel onglet.</p>
+
+    <section id="actions">
+      <label id="pick-folder" for="folder-input">Choisir un dossier</label>
+      <input type="file" id="folder-input" webkitdirectory multiple hidden>
+      <button id="clear-all" class="danger" disabled>Tout supprimer</button>
+      <span id="count">0 wallpaper(s)</span>
+    </section>
+
+    <section id="gallery"></section>
+
+    <h2>Météo</h2>
+    <section id="weather-config">
+      <div class="field">
+        <label for="weather-city">Ville</label>
+        <input type="text" id="weather-city" placeholder="Paris,FR">
+      </div>
+      <div class="field">
+        <label for="weather-apikey">Clé API OpenWeatherMap</label>
+        <input type="text" id="weather-apikey" placeholder="Votre clé API">
+      </div>
+      <button id="save-weather">Enregistrer</button>
+      <span id="weather-status"></span>
+    </section>
+  </main>
+
+  <script type="module" src="options.js"></script>
+</body>
+</html>
